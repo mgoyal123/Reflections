@@ -1,0 +1,23 @@
+What happens when you initialize a repository? Why do you need to do it?
+    To commit the changes made in my repository, we need to initialize a repository
+    to save the history of files. we need to commit changes in repository for which 
+    initializiation of repositoryis must.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+    It helps in saving the space and making smaller and more meaningfull commits
+    as it allows us to add the files in which some logical changes are made. 
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
