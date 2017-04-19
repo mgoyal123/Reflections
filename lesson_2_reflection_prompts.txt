@@ -10,9 +10,16 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+    By using git diff --staged command(diff between the staging area and latest 
+    commit), we can see that diff is showing one logical change that we intend 
+    to commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+    If my project is in such state that i want to experiment new features on it and
+    those are nor interrelated then branches are the best feture that can help me.
+    In this case, later on if i get success in implementing new features then i can
+    also merge them in one master branch for further proceedings.
 
 How do the diagrams help you visualize the branch structure?
 
