@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+  When there are other people working on the same project then this remote repository 
+  would be quite beneficial. Also, suddenly if my pc crashes and all the data gets lost
+  then i can always pull my last commit and start working again.
