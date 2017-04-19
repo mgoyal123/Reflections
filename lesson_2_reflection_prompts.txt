@@ -21,7 +21,8 @@ organized? How would branches help?
     In this case, later on if i get success in implementing new features then i can
     also merge them in one master branch for further proceedings.
 
-How do the diagrams help you visualize the branch structure?
+How do the diagrams help you visualize the branch structure? 
+    Diagrams helps to find out the rechability of each commit in each branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
