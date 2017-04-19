@@ -8,3 +8,10 @@ stay up-to-date with your remote repository?
     This is really important aspect of git pull because i always do not want to commits 
     from remote to my local repository.I only want the commits that are relevant to me.
     
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+    Fork- this will be used when i want work on someone else's repository, modify it and 
+    want that other people can see it.
+    clone- when i to copy the entire repository from github or local space to local directory
+    branches- These will be used when i want do some experiment on my code and later on might
+    want to merge with original code.
