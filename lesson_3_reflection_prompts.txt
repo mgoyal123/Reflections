@@ -20,5 +20,17 @@ instead of another?
 What is the benefit of having a copy of the last known state of the remote stored locally?
     With that, i can work offline on remote copy of code which might be different from the local 
     one and also if it suits me then i can merge it with my local code.
+    
+How would you collaborate without using Git or GitHub? What would be easier, and what would be 
+harder?
+    As i am new to version control system, i don't think that there is any other good alternative.
+    Things would be harder only.
 
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+    I'll go for the first approach i.e. to make changes to separate branch when I am working with
+    other people and need to get my change approved from them. With this, I can make sure that my
+    master branch local/remotre remain unaffected by the change i proposed to introduce till it is
+    not merged by other collaboraters.
+    
     
